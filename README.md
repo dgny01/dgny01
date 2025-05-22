@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Merhaba, ben [dgny01]!
 
-<!--
-**dgny01/dgny01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir bilgisayar mühendisliği öğrencisiyim ve özellikle **yapay zeka**, **C++** ve **nesne yönelimli programlama (OOP)** konularına ilgi duyuyorum. Şu anda bu alanlarda kendimi geliştirmeye devam ediyorum.
 
-Here are some ideas to get you started:
+## 🚀 Beceri ve İlgi Alanlarım
+- **C++** ile programlama
+- **Yapay Zeka** temelleri ve uygulamaları
+- **Nesne Yönelimli Programlama (OOP)**
+- Takım çalışması ve problem çözme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Hedeflerim
+- Yapay zeka ve C++ konularında ileri düzey bilgi sahibi olmak
+- Açık kaynak projelerine katkı sağlamak
+- Kendi projelerimi geliştirip paylaşmak
+
+## 🛠️ GitHub Projelerim
+C++ ve yapay zeka ile ilgili çalışmalarımı ve projelerimi GitHub’da paylaşıyorum. Projelerimi incelemek için [repo listeme](https://github.com/dgny01?tab=repositories) göz atabilirsiniz.
+
+---
+
+Yeni fikir ve işbirliklerine açığım! Ulaşmak için GitHub üzerinden bana mesaj bırakabilirsiniz.
