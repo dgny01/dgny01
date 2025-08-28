@@ -1,21 +1,23 @@
-# 👋 Merhaba, ben [dgny01]!
+👋 Hi, I’m [dgny01]!
+I’m a Computer Engineering student with a strong interest in Artificial Intelligence, C++, and Object-Oriented Programming (OOP). I’m currently working on improving my skills in these areas.
 
-Ben bir bilgisayar mühendisliği öğrencisiyim ve özellikle **yapay zeka**, **C++** ve **nesne yönelimli programlama (OOP)** konularına ilgi duyuyorum. Şu anda bu alanlarda kendimi geliştirmeye devam ediyorum.
+🚀 Skills & Interests
 
-## 🚀 Beceri ve İlgi Alanlarım
-- **C++** ile programlama
-- **Yapay Zeka** temelleri ve uygulamaları
-- **Nesne Yönelimli Programlama (OOP)**
-- Takım çalışması ve problem çözme
+Programming in C++
 
-## 🎯 Hedeflerim
-- Yapay zeka ve C++ konularında ileri düzey bilgi sahibi olmak
-- Açık kaynak projelerine katkı sağlamak
-- Kendi projelerimi geliştirip paylaşmak
+Fundamentals and applications of Artificial Intelligence
 
-## 🛠️ GitHub Projelerim
-C++ ve yapay zeka ile ilgili çalışmalarımı ve projelerimi GitHub’da paylaşıyorum. Projelerimi incelemek için [repo listeme](https://github.com/dgny01?tab=repositories) göz atabilirsiniz.
+Object-Oriented Programming (OOP)
 
----
+Teamwork and problem-solving
 
-Yeni fikir ve işbirliklerine açığım! Ulaşmak için GitHub üzerinden bana mesaj bırakabilirsiniz.
+🎯 Goals
+
+Gain advanced knowledge in AI and C++
+
+Contribute to open-source projects
+
+Develop and share my own projects
+
+🛠️ My GitHub Projects
+I share my work and projects related to C++ and AI on GitHub. You can check out my repositories to see my work
