@@ -1,5 +1,5 @@
-👋 Hi, I’m [dgny01]!
-I’m a Computer Engineering student with a strong interest in Artificial Intelligence, C++, and Object-Oriented Programming (OOP). I’m currently working on improving my skills in these areas.
+👋 Hi, I’m dgny01!
+I’m a Computer Engineering student with a strong interest in Artificial Intelligence, C++, and Object-Oriented Programming OOP. I’m currently working on improving my skills in these areas.
 
 🚀 Skills & Interests
 
@@ -7,7 +7,7 @@ Programming in C++
 
 Fundamentals and applications of Artificial Intelligence
 
-Object-Oriented Programming (OOP)
+Object-Oriented Programming OOP
 
 Teamwork and problem-solving
 
