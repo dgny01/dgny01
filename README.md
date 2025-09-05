@@ -1,23 +1,35 @@
-👋 Hi, I’m dgny01!
-I’m a Computer Engineering student with a strong interest in Artificial Intelligence, C++, and Object-Oriented Programming OOP. I’m currently working on improving my skills in these areas.
+# 👋 Hi, I’m Doğanay dgny01
 
-🚀 Skills & Interests
+🎓 Computer Engineering student passionate about **Artificial Intelligence, C++ development, and Object-Oriented Programming (OOP)**.  
+💻 Currently improving my skills in **Python (data analysis, AI)** and exploring **frontend development** to build complete software solutions.  
 
-Programming in C++
+---
 
-Fundamentals and applications of Artificial Intelligence
+## 🚀 Skills & Tools
+- **Languages:** C++, Python, HTML, CSS, JavaScript (basic)  
+- **Concepts:** Object-Oriented Programming, Algorithms, Artificial Intelligence  
+- **Tools:** Git, GitHub, Linux, VS Code,  
 
-Object-Oriented Programming OOP
+---
 
-Teamwork and problem-solving
+## 🎯 Goals
+- Master **C++ and AI** fundamentals  
+- Build projects using **Python for AI & Data Science**  
+- Explore **frontend + backend integration**  
+- Contribute to **open-source projects**  
 
-🎯 Goals
+---
 
-Gain advanced knowledge in AI and C++
+## 🛠️ Featured Projects
+🔹 [Smart Traffic Light Simulation (C++)](#) – Console-based simulation using OOP concepts  
+🔹 [Passenger Management System (C++)](#) – User registration, login, and reservation system  
+🔹 [Data Analysis with Python](#) – Data cleaning and visualization with Pandas & Matplotlib  
+🔹 [Mini Frontend Projects](#) – Simple web projects using HTML, CSS, and JavaScript  
 
-Contribute to open-source projects
+👉 Check out all my repositories here: [github.com/dgny01](https://github.com/dgny01)  
 
-Develop and share my own projects
+---
 
-🛠️ My GitHub Projects
-I share my work and projects related to C++ and AI on GitHub. You can check out my repositories to see my work
+## 📫 Let’s Connect
+- LinkedIn: linkedin.com/in/doğanay-yıldız-568259255  
+- Email: yildizdoganay2003@gmail.com  
