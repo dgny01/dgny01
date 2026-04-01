@@ -3,6 +3,7 @@ Doğanay Yıldız
 🏗️ DevOps & Infrastructure: Docker | Kubernetes | Prometheus
 🐧 Systems: Linux Kernel | eBPF | C++ | Python
 🔍 Currently analyzing Hardware Cache Performance using eBPF and PMUs.
+Focusing on eBPF-powered observability and hardware-level performance monitoring."
 ### 🛠️ Tech Stack
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
